@@ -1,4 +1,6 @@
-#second{
-	font:bolder 16px '微软雅黑';
+.c2{
+	font-size: 16px;
+	font-family: '微软雅黑';
+	font-weight: bold;
 	color: #65a7d0;
-}
+} 

@@ -1,29 +1,36 @@
-body{
-	font:12px Arial ;
-	color: red;
-	line-height:2em;
+td{
+	font-size:12px ;
+    font-family: 'Arial';
+	color:gray;
+	line-height: 2em;
+
 }
 a{
-	color: #727272;
-	text-decoration: none
+	color:#727272;
+}
+a:link{
+	text-decoration: none;
 }
 a:hover{
 	text-decoration: underline;
 }
-#lanmu{
-	color: #b9f605
-	font:bolder 14px;
-
-}
-#lanmu a{
-	color: white;
-}
-#lanmu a:hover{
+.c1{
 	color: #b9f605;
-	text-decoration: none;
-
+	font-weight: 900;
+	font-size: 14px;
 }
-#first{
-	color:#fdb306;
+.c1 a{
+	color: white;
+	font-weight: 900;
+	font-size: 14px;
+}
+.c1 a:hover{
+	    color: #b9f605;
+	    text-decoration: none;
+    }
 
+#b1{
+	color: #fdb306;
+	font-weight: 900;
+	font-size: 14px;
 }
