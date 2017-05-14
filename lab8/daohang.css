@@ -1,27 +1,22 @@
-
-ul{
-	padding-top:1em;
-	list-style-type: none;
-	list-style-position: inside;
-	margin:0px 30px 0px 0px ;
-}
-li{
-	background-image: url(image/baibiaoti.png);
-	background-repeat: no-repeat;
-	text-align: center;
-	line-height: 2.3em;
-	color: gray;
-	margin: 0px 0px;
-
-}
-#first{
+#i{
 	background-image: url(image/lvbiaoti.png);
+	background-repeat: ;
 	color: white;
 
 }
-div{
-	width: 250px;
-	height: 380px;
+li{
+	color: gray;
+	background-image: url(image/baibiaoti.png);
+	text-align: center;
+	margin: 10px;
+	line-height: 2.3em;
+}
+body{
 	background-image: url(image/bj.png);
 	background-repeat: no-repeat;
+}
+ul{
+	margin-left: -35px;
+	list-style-type: none;
+	width: 190px;
 }
