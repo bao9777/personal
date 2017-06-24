@@ -1,0 +1,252 @@
+body{
+			margin-left: 0px;
+
+		}
+		#logo{
+			float: left;
+			margin-left: 20px;
+
+			
+		}
+		#logo img:hover{
+			opacity: 0.5;
+		}
+		#logo img{
+			width: 100px;
+			height:100px;
+			border:3px double #33CCCC;
+			
+		}
+		.nav{
+			
+			height: 115px;
+			width: 1525px;
+			overflow: hidden;
+		}
+		
+		#nav{
+			float: left;
+			margin-left: 10px;
+			margin-top: 20px;
+		}
+		#login{
+			float: right;
+			height: 113px;
+			width: 238px;
+			color: #CCFF66;
+			
+			margin-right: 20px;
+
+		}
+		#login input{
+			border:1px solid gray;
+
+		}
+		.nav li{
+			float: left;
+			margin-left: 5em;
+			line-height: 2em;
+			font-family: 'Times New Roman';
+			font-size: 1.5em;
+			
+
+		}
+		.nav li a{
+			text-decoration: none;
+			color:gray;
+
+		}
+		.nav li a:hover{
+			
+			color: #ffffcc;
+
+		}
+		.nav ul{
+			
+			overflow: hidden;
+			
+			list-style-type: none;
+
+		}
+		.banner{
+			clear: both;
+			background-image: url(../images/banner3.jpg);
+
+			width: 1525px;
+			height: 600px;
+			border:1px solid black;
+		}
+		
+
+		
+		#searchdiv{
+			float: right;
+			margin-top: 15px;
+			margin-right: 20px;
+			opacity: 0.8;
+			margin-bottom: -50px;
+
+		}
+		#search{
+			position: relative;
+			top:-8px;
+
+		}
+		#searchdiv:hover{
+			opacity: 1;
+		}
+		#searchdiv img{
+			width: 25px;
+			height: 25px;
+			opacity: 0.5;
+		}
+		#searchdiv img:hover{
+			opacity: 0.8;
+		}
+		#divoutout{
+			width: 1500px;
+			height: 500px;
+			
+			position: relative;
+			top: 90px;
+			left: 10px;
+			opacity: 0.7;
+		}
+		.listout{
+			width: 170px;
+			height: 230px;
+			border:3px double #ccffcc;
+			background-image: url(../images/listbackground.png);
+			background-size: 170px 230px;
+			opacity: 0.5;
+			float: left;
+			margin-left: 100px;
+			margin-top: 5px;
+		}
+		.listp{
+			font-size: 0.5em;
+			font-family: 'Times New Roman';
+			text-align: center;
+			margin-top: 1em;
+		}
+		.listdate{
+			color: gray;
+			text-align: right;
+			font-size: 0.5em;
+			position: relative;
+			right: 1em;
+			bottom: 1em;
+
+		}
+		.listout img{
+			width: 170px;
+			height: 170px;
+		}
+		.listout:hover{
+			opacity: 1;
+			position: relative;
+			left: 2px;
+			top: 2px;
+		}
+		#bread{
+			width: 300px;
+			opacity: 0.5;
+			font-family: 'Times New Roman';
+			position: relative;
+			top: 20px;
+			left: 30px;
+
+		}
+		#bread a{
+			text-decoration: none;
+			color: orange;
+			font-size: 1.3em;
+		}
+		#bread a:hover{
+			color: #33cc33;
+			opacity: 0.9;
+		}
+		#listplaces{
+			width: 600px;
+			font-family: 'Times New Roman';
+			font-size: 2em;
+			position:relative;
+			left: 470px;
+			text-align: center;
+			color: white;
+			margin-bottom: -100px;
+			margin-top: -40px;
+			opacity: 0.7;
+		}
+		.jutilist{
+			width: 1523px;
+			height: 400px;
+			border:1px solid #6495ed;
+			background-image: url(../images/importantbackground.png);
+			color: white;
+			font-family: 'Times New Roman';
+
+		}
+		#jutilistdiv{
+			width: 1000px;
+			position: relative;
+			left: 300px;
+			opacity: 0.6;
+			
+		}
+		#jutilistdiv:hover{
+			opacity: 1;
+		}
+		.jutilist p{
+			font-size: 2em;
+			text-align: center;
+
+
+		}
+		.jutilist ul{
+			list-style-type: circle;
+			 
+		}
+		.jutilist li span{
+			float: right;
+			position: relative;
+			top: 5px;
+			right: 5px;
+		}
+		.jutilist li a{
+			font-size: 1.2em;
+			line-height: 2em;
+			text-decoration: none;
+			color: white;
+		}
+		.jutilist li a:hover{
+			opacity: 0.6;
+			color: #00bfff;
+		}
+		/**{
+			border:1px solid red;
+		}
+*/
+
+		.footer{
+			width: 1522px;
+			height: 150px;
+			border:2px solid #cc99ff;
+			background-image: url(../images/footerbackground.png);
+		}
+		#zanzhu{
+			position: relative;
+			left: 650px;
+			top: 20px;
+		}
+		.footer p{
+			text-align: center;
+			position: relative;
+			top: 30px;
+			font-size: 1.5em;
+			font-family: 'Times New Roman';
+			color: white;
+		}
+		/**{
+			border:1px solid red;
+		}*/
