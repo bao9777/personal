@@ -1,4 +1,5 @@
-	 var box=document.getElementById('wrap');
+window.onload=function(){
+	var box=document.getElementById('wrap');
 	 var links=box.children;
 	 var box=document.getElementById('wrap');
 	 var lists=box.children;
@@ -28,3 +29,4 @@
 	 inp.onblur=function(){
 	 	this.value="搜索";
 	}
+}
