@@ -25,7 +25,7 @@
 			position: absolute;
 			bottom: 0px;
 			left: 99px;
-			background: url(images/bot.png);
+			background: url(../images/bot.png);
 		}
 		#bot span{
 			display: block;
